@@ -210,7 +210,7 @@ with st.container(border=True):
     with col2:
         st.metric(
             "Prediction Probability",
-            f"{selected_probability:.1%}"
+            f"{prediction_probability:.1%}"
         )
 
     with col3:
