@@ -5,6 +5,4 @@ plotly
 scikit-learn
 lightgbm
 joblib
-yfinance
 matplotlib
-seaborn
